@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .container{
+    width: 400px;
+    margin:0 auto;
+  }
+
+  .cabecera{
+    margin: 0 auto;
+    border: 1px solid  rgba(224, 214, 214, 0.582);;
+    padding: 10px;
+    margin-top: 55px;
+    background: rgba(189, 186, 186, 0.582);
+    border-radius: 7px;
+    margin-bottom: 20px;
+  }
+
+  .texto{
+    display: flex;
+    justify-content: center;
+  }
+
+  #id_txt{
+    padding: 10px;
+    border:2px solid rgba(161, 160, 160, 0.952);
+    border-radius: 5px 0px 0px 5px;
+    box-shadow: none;
+    width: 300px;
+  }
+
+  #id_btn{
+    padding: 10px;
+    background: green;
+    color: white;
+    border: none;
+    border-radius:0px 5px 5px 0px;
+    width: 50px;
+    cursor: pointer;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
